@@ -1,0 +1,44 @@
+.expression-form {
+  max-width: 1000px;
+  margin: 24px auto;
+  padding: 20px;
+  border: 1px solid #f7f0f0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.expression-row {
+  margin-bottom: 15px;
+}
+
+.rules-data {
+  border: 1px solid #f7f0f0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 5.5rem;
+}
+
+.json-data {
+  max-width: 1000px;
+  margin: 24px auto;
+  background-color: rgb(41, 44, 42);
+  color: white;
+  padding: 20px;
+  position: relative;
+  border-radius: 8px;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+}
+
+.copied {
+  background-color: rgb(49, 151, 49) !important;
+  color: white !important;
+  border: 1px solid wheat !important;
+}
+
+.footer {
+  background-color: #f7f0f0;
+}
